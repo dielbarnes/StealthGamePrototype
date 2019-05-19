@@ -7,4 +7,4 @@ Showcases object interactions and security obstacles of a stealth game
 Object interactions (steal, pickup, hack)  
 Moving and blinking lasers  
 Security camera  
-Alarm
+Alarm 
